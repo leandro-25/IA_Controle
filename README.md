@@ -3,6 +3,7 @@
 Este projeto utiliza visão computacional e reconhecimento de gestos de mão para controlar duas funcionalidades principais em uma máquina Windows:
 
 **Abrir e Fechar o Paint:** Usando o gesto de um dedo, o programa abre o Microsoft Paint. Com o gesto de quatro dedos, ele fecha o Paint.
+
 **Ajustar o Volume:** Usando o número de dedos levantados na mão direita, o sistema ajusta o volume do sistema, de 0% a 100%.
 
 ### O projeto faz uso das seguintes bibliotecas Python:
